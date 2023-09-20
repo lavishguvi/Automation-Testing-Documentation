@@ -1,4 +1,4 @@
-uManual Testing 
+Manual Testing 
 
  <!DOCTYPE html>
 <html>
